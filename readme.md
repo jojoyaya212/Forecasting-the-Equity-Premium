@@ -1,5 +1,5 @@
 # Forecasting the Equity Premium  
-*MFIN705 – Time Series Analysis*
+*Time Series Analysis*
 
 This repository contains the full implementation, analysis, and results for a term project on **forecasting the next-month equity premium of the S&P 500** using monthly macroeconomic and valuation predictors. The project compares **econometric time-series models** and **machine learning models** under a unified backtesting framework and evaluates both **statistical accuracy** and **economic value**.
 
@@ -143,4 +143,5 @@ All models are trained and evaluated under **identical assumptions**.
 
 This project is conducted strictly for academic purposes.
 Results depend on data definitions, sample periods, and modeling assumptions.
+
 This repository does not constitute investment advice or trading recommendations.
